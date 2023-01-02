@@ -123,7 +123,7 @@ void main(){
 }
 */
 
-/* 4장 6절 문제 10 */
+/* 4장 6절 문제 10 
 void main(){
     int n,m;
     scanf("%d %d", &n, &m);
@@ -136,7 +136,7 @@ void main(){
         printf("%d", m%n);
     }
 }
-
+*/
 
 
 
