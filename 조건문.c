@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* 5장 3절 문제1
+/* 5?? 3?? ????1
 void main(){
     int n;
     scanf("%d", &n);
@@ -14,7 +14,7 @@ void main(){
 }
 */
 
-/* 5장 3절 문제2
+/* 5?? 3?? ????2
 void main(){
     int n,m;
     scanf("%d %d", &n, &m);
@@ -29,7 +29,7 @@ void main(){
 }
 */
 
-/* 5장 4절 문제3
+/* 5?? 4?? ????3
 void main(){
     int i, sum;
     int n[5];
@@ -45,10 +45,10 @@ void main(){
 }
 */
 
-// 5장 4절 문제4 X
+// 5?? 4?? ????4 X
 
 
-/* 5장 4절 문제5
+/* 5?? 4?? ????5
 void main(){
     int n;
     scanf("%d", &n);
@@ -74,7 +74,7 @@ void main(){
 }
 */ 
 
-/* 5장 4절 문제 6
+/* 5?? 4?? ???? 6
 void main(){
     int n[3];
     int i, max, min;
@@ -97,9 +97,9 @@ void main(){
 }
 */
 
-//5장 4절 문제7 X
+//5?? 4?? ????7 X
 
-/* 5장 4절 문제8 (중첩 if-elseif-else문 사용)
+/* 5?? 4?? ????8 (??ø if-elseif-else?? ???)
 void main(){
     int n;
     scanf("%d", &n);
