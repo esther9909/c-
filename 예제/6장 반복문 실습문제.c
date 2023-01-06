@@ -76,7 +76,6 @@ int main(void){
         printf("\n");
     }
 }
-
  */
 
 /* [ 문제 5-2 ] 
